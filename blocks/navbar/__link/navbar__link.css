@@ -1,0 +1,12 @@
+.navbar__link {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 16px;
+  letter-spacing: 1.09;
+  text-decoration: none;
+  color: #48555B;
+}
+
+.navbar__link:hover {
+  font-weight: 800;
+}
