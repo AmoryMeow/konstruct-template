@@ -1,0 +1,10 @@
+.footer__text {
+  font-size: 11px;
+  line-height: 1.73;
+  letter-spacing: 0.85px;
+  margin: 0;
+  margin-bottom: 12px;
+}
+.footer__text:last-of-type {
+  margin: 0;
+}

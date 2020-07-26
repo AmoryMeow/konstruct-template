@@ -1,0 +1,10 @@
+.footer__social-networks {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(3, min-content);
+  grid-column-gap: 25px;
+
+}
+

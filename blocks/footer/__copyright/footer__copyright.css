@@ -1,0 +1,12 @@
+.footer__copyright {
+  background-color:  #171819;
+  color: #FFFFFF;
+  padding: 0 calc((100% - 940px)/2);
+  box-sizing: border-box;
+  width: 100%;
+  height: 60px;
+  text-align: center;
+  font-size: 11px;
+  line-height: 60px;
+  letter-spacing: 0.846154px;
+}

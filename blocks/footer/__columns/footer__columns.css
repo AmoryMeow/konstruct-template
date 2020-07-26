@@ -1,0 +1,11 @@
+.footer__columns {
+  background-color: #141A20;
+  color: #FFFFFF;
+  padding: 0 calc((100% - 940px)/2);
+  padding-top: 42px;
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: stretch;
+  min-height: 240px;
+}
