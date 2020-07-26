@@ -1,0 +1,8 @@
+.get-in-touch {
+  background-image: url('../../images/get-in-touch-bg.jpg');
+  min-height: 499px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

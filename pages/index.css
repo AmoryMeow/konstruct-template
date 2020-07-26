@@ -45,3 +45,7 @@
 @import url('../blocks/card/__image/card__image.css');
 @import url('../blocks/card/__title/card__title.css');
 @import url('../blocks/card/__text/card__text.css');
+/*get-in-touch*/
+@import url('../blocks/get-in-touch/get-in-touch.css');
+@import url('../blocks/get-in-touch/__title/get-in-touch__title.css');
+@import url('../blocks/get-in-touch/__button/get-in-touch__button.css');
