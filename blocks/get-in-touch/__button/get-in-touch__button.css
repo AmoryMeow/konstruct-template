@@ -11,3 +11,7 @@
   font-weight: bold;
   letter-spacing: 0.5px;
 }
+
+.get-in-touch__button:hover {
+  box-shadow:  0 0 10px #48555B;
+}

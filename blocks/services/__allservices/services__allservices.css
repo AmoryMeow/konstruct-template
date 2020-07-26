@@ -10,3 +10,7 @@
   letter-spacing: 0.5px;
   text-align: center;
 }
+
+.services__allservices:hover {
+  box-shadow:  0 0 10px #48555B;
+}
