@@ -1,0 +1,12 @@
+.newsletter__email {
+  width: 250px;
+  height: 40px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 19px;
+  letter-spacing: 0.07px;
+  padding-left: 16px;
+  box-sizing: border-box;
+  color: #48555B;
+}

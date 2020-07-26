@@ -1,0 +1,12 @@
+.newsletter__button {
+  height: 40px;
+  width: 150px;
+  background-color: #00A4E5;
+  font-size: 13px;
+  line-height: 40px;
+  letter-spacing: 0.5px;
+  font-family: inherit;
+  color: #FFFFFF;
+  border: 0;
+  padding: 0;
+}

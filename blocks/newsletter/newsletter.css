@@ -1,0 +1,8 @@
+.newsletter {
+  min-height: 100px;
+  background-color: #171819;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
