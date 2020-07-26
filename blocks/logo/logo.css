@@ -2,5 +2,6 @@
   height: 23px;
   width: 102px;
   background-image: url('../../images/logo.svg');
-  object-fit: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
 }
