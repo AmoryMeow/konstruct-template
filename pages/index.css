@@ -33,3 +33,9 @@
 @import url('../blocks/about/__we/_act/about__we_act_build.css');
 /*line*/
 @import url('../blocks/line/line.css');
+/*services*/
+@import url('../blocks/services/services.css');
+@import url('../blocks/services/__title/services__title.css');
+@import url('../blocks/services/__subtitle/services__subtitle.css');
+@import url('../blocks/services/__heading/services__heading.css');
+@import url('../blocks/services/__allservices/services__allservices.css');
