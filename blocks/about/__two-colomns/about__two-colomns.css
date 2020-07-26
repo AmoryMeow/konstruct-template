@@ -1,0 +1,6 @@
+.about__two-colomns {
+  display: flex;
+  margin-top: 90px;
+  justify-content: space-between;
+  align-items: flex-end;
+}

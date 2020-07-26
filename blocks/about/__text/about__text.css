@@ -1,0 +1,12 @@
+.about__text {
+  margin: 0;
+  margin-bottom: 30px;
+  font-size: 13px;
+  line-height: 1.77;
+  font-weight: normal;
+  letter-spacing: 0.1875px;
+}
+
+.about__text:last-of-type {
+  margin: 0;
+}

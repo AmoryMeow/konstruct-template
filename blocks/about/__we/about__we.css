@@ -1,0 +1,18 @@
+.about__we {
+  width: 140px;
+  height: 224px;
+  color: #fff;
+  font-size: 24px;
+  line-height: 1.21;
+  font-weight: 800;
+  letter-spacing: 0.1875px;
+  padding-top: 15px;
+  padding-left: 14px;
+  box-sizing: border-box;
+  white-space: pre-wrap;
+  margin-right: 20px;
+}
+
+.about__we:last-of-type {
+  margin-right: 0;
+}
