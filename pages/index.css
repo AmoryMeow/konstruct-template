@@ -39,3 +39,9 @@
 @import url('../blocks/services/__subtitle/services__subtitle.css');
 @import url('../blocks/services/__heading/services__heading.css');
 @import url('../blocks/services/__allservices/services__allservices.css');
+/*cards*/
+@import url('../blocks/cards/cards.css');
+@import url('../blocks/card/card.css');
+@import url('../blocks/card/__image/card__image.css');
+@import url('../blocks/card/__title/card__title.css');
+@import url('../blocks/card/__text/card__text.css');
